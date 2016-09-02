@@ -1,0 +1,23 @@
+{
+  "name": "seajs-var",
+  "version": "0.1.0",
+  "description": "Sea.js plugin to load non-CMD module (e.g. jQuery).",
+  "main": "seajs-var.js",
+  "scripts": {
+    "test": "start test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luobotang/seajs-var.git"
+  },
+  "keywords": [
+    "seajs",
+    "plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luobotang/seajs-var/issues"
+  },
+  "homepage": "https://github.com/luobotang/seajs-var#readme"
+}
