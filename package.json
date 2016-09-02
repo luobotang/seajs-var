@@ -1,6 +1,6 @@
 {
   "name": "seajs-var",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sea.js plugin to load non-CMD module (e.g. jQuery).",
   "main": "seajs-var.js",
   "scripts": {
